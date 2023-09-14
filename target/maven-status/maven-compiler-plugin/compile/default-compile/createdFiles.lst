@@ -1,2 +1,5 @@
+br\com\vendasapplication\model\Cliente.class
+br\com\vendasapplication\service\ClienteService.class
 br\com\vendasapplication\MyConfiguration.class
+br\com\vendasapplication\repository\ClienteRepository.class
 br\com\vendasapplication\VendasApplication.class

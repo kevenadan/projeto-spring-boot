@@ -1,2 +1,5 @@
 D:\Keven\Projetos\projeto-spring-boot\src\main\java\br\com\vendasapplication\VendasApplication.java
 D:\Keven\Projetos\projeto-spring-boot\src\main\java\br\com\vendasapplication\MyConfiguration.java
+D:\Keven\Projetos\projeto-spring-boot\src\main\java\br\com\vendasapplication\model\Cliente.java
+D:\Keven\Projetos\projeto-spring-boot\src\main\java\br\com\vendasapplication\repository\ClienteRepository.java
+D:\Keven\Projetos\projeto-spring-boot\src\main\java\br\com\vendasapplication\service\ClienteService.java
